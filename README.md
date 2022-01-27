@@ -4,14 +4,14 @@ Click here to view my challenge code: [Crypto_Clustering](https://github.com/jza
 
 ## Overview of Project
 
-The objective of this challenge is to do analysis and ultimately report on cryptocurrencies for a prominent investment bank utilizing unsupervised machine learning techniques. The deliverables are as follows:
+The objective of this challenge is to do an analysis and report on cryptocurrencies for a prominent investment bank utilizing unsupervised machine learning techniques. The deliverables are as follows:
 
  - Deliverable 1: Preprocessing the Data for PCA
  - Deliverable 2: Reducing Data Dimensions Using PCA Deliverable 
  - Deliverable 3: Clustering Cryptocurrencies Using K-means Deliverable 
  - Deliverable 4: Visualizing Cryptocurrencies Results
 
-This report ultimately includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for investing in this new market/currency.
+This report ultimately includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for investing in this new market.
 
 ## Results
 
