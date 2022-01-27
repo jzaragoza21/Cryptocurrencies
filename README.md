@@ -35,16 +35,12 @@ The following is a screenshot of the results of each deliverable. However, for t
 ![Elbow Kvalue](https://github.com/jzaragoza21/Cryptocurrencies/blob/main/Results%20PNG/ElbowCurve__Kvalue.png)
 
 
+### Deliverable 4: Visualizing Cryptocurrencies Results
+
+
 ![3D_Scatter](https://github.com/jzaragoza21/Cryptocurrencies/blob/main/Results%20PNG/3D_Scatter_PCA_Clusters.PNG)
 
 
 ![HV_plot](https://github.com/jzaragoza21/Cryptocurrencies/blob/main/Results%20PNG/hvplot_total_CoinsMined_CoinsSupply.PNG)
-
-
-
-
-### Deliverable 4: Visualizing Cryptocurrencies Results
-
-
 
 
