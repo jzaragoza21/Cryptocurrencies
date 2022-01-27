@@ -20,7 +20,7 @@ The following are screenshots of deliverable results. However, for the full code
 ### Deliverable 1: Preprocessing the Data for PCA
 
 
-![Get_Dummies](https://github.com/jzaragoza21/Cryptocurrencies/blob/main/Results%20PNG/GetDummies_StandardScaler.PNG)
+![Get_Dummies](https://github.com/jzaragoza21/Cryptocurrencies/blob/main/Results%20PNG/GetDummies_StandardScaler_1.PNG)
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA Deliverable
