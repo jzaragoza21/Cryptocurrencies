@@ -15,7 +15,7 @@ This report ultimately includes what cryptocurrencies are on the trading market 
 
 ## Results
 
-The following is a screenshot of the results of each deliverable. However, for the full code and analysis please click on the "Crypto_Clustering" file above. 
+The following are screenshots of deliverable results. However, for the full code and analysis, please click on the "Crypto_Clustering" file above. 
 
 ### Deliverable 1: Preprocessing the Data for PCA
 
